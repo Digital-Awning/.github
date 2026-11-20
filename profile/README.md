@@ -1,12 +1,9 @@
-## Hi there 👋
+# Digital Awning
 
-<!--
+**Your storefront, online.**
 
-**Here are some ideas to get you started:**
+Affordable websites for local businesses. Real person, real help.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Your website, built and kept up to date for you, from $19 a month. Hosting and your domain are included in every plan.
+
+🌐 [digitalawning.com](https://digitalawning.com)
